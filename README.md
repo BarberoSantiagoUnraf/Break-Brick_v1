@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Phaser 3 Template
 
 Plantilla para iniciar nuevos proyectos con PHASER 3.
@@ -16,3 +17,7 @@ No te olvides de customizarlo a tus necesidades.
    1. Una vez que este funcionando correctamente, hacer un commit con el mensaje "Update Phaser version and title".
    1. Borrar los archivos dentro de la carpeta `/assets` y empezar a desarrollar.
 1. Por ultimo, una buena practica es: modificar este README.md, poner información relevante de tu juego, imagenes, videos, etc, y luego hacer un commit con el mensaje "Customize README.md".
+=======
+# Break-Brick_v1
+juego de practica de programacion similar al Ricochet
+>>>>>>> ea6e4511e8ee10d77362a64931dcc76123f47d93
